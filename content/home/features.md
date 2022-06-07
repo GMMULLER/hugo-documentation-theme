@@ -3,18 +3,17 @@ widget: featurette
 headless: true
 weight: 20
 title: Features
-subtitle: Document _anything_ ✨
 feature:
-  - icon: book-open
+  - icon: clock
     icon_pack: fas
-    name: Project Documentation
-    description: For users
-  - icon: question
+    name: Speed
+    description: Rendering time
+  - icon: bullseye
     icon_pack: fas
-    name: Knowledge Base
-    description: For teams
-  - icon: list-alt
+    name: Accuracy
+    description: RMSE, MAE, MSE
+  - icon: globe
     icon_pack: fas
-    name: Personal Notebook
-    description: For yourself
+    name: Scale
+    description: Quantification of sunlight access and shadows at a global scale
 ---
