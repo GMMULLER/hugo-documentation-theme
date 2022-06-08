@@ -6,12 +6,17 @@ title: DeepShadow
 hero_media: deepshadow-vis.png
 design:
   background:
-    gradient_start: '#4bb4e3'
-    gradient_end: '#2b94c3'
     text_color_light: true
+    image: home_background.jpg
+    image_size: cover
+    image_position: center
+    image_parallax: true
+    image_darken: 0.5
 cta:
-  url: docs/
-  label: View Documentation
+  url: 'https://github.com/uic-evl/deep-shadows/tree/dev'
+  label: Git Repository
+  icon_pack: fab
+  icon: github
 ---
 
 City-Scale Automatic Shadow Detection using Building Height Information
