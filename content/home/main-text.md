@@ -16,7 +16,7 @@ design:
     text_color_light: false
 
 advanced:
-  css_style: 'border-bottom: 1px dotted lightgrey; text-align: justify; padding-left: 10px; padding-right: 10px'
+  css_style: 'border-bottom: 1px dotted lightgrey; text-align: justify; padding-left: 40px; padding-right: 40px'
 ---
 
 DeepShadow is a framework that can automatically predict shadow casting in a city from building height information. Its underlying technology is based in a Generative Adversarial Network (GAN), more specifically the Pix2Pix architecture (with some small modifications). DeepShadow's primary motivation is the impact that shadow management can have in people's quality of live, since it can affect levels of comfort, heat distribution, public parks, and so on.

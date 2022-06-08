@@ -16,4 +16,7 @@ feature:
     icon_pack: fas
     name: Scale
     description: Quantification of sunlight access and shadows at a global scale
+
+advanced:
+  css_style: 'padding-left: 40px; padding-right: 40px'
 ---
