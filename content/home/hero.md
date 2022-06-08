@@ -17,6 +17,11 @@ cta:
   label: Git Repository
   icon_pack: fab
   icon: github
+cta_alt:
+  url: 'https://github.com/uic-evl/deep-shadows/tree/dev'
+  label: OSF Repository
 ---
 
-City-Scale Automatic Shadow Detection using Building Height Information
+City-Scale Automatic Shadow Detection using Building Height Information  
+
+Manuscript accessible [here]('https://github.com/uic-evl/deep-shadows/tree/dev')
