@@ -18,6 +18,8 @@ cta:
   label: Git Repository
   icon_pack: fab
   icon: github
+cta_note:
+  label: 'Photo by Jim Lou (Creative Commons)'
 ---
 
 City-Scale Automatic Shadow Detection using Building Height Information  
