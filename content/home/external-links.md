@@ -3,22 +3,21 @@ widget: portfolio
 
 headless: true
 
-weight: 40
+weight: 30
 
-title: ''
+title: 'Links'
 subtitle: ''
 
 content:
-  page_type: institution
+  page_type: links
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
 
 design:
   columns: '1'
-  view: masonry
-#   view: showcase
+  view: compact
   flip_alt_rows: true
   spacing:
-    padding: ["50px","170px","30px","170px"]
+    padding: ["50px","180px","30px","180px"]
 ---

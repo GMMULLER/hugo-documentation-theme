@@ -8,8 +8,9 @@ design:
   background:
     text_color_light: true
     image: home_background.jpg
-    image_size: cover
-    image_position: center
+     #  Options are `cover` (default), `contain`, or `actual` size.
+    image_size: contain
+    image_position: top
     image_parallax: true
     image_darken: 0.5
 cta:
@@ -17,11 +18,6 @@ cta:
   label: Git Repository
   icon_pack: fab
   icon: github
-cta_alt:
-  url: 'https://github.com/uic-evl/deep-shadows/tree/dev'
-  label: OSF Repository
 ---
 
 City-Scale Automatic Shadow Detection using Building Height Information  
-
-Manuscript accessible [here]('https://github.com/uic-evl/deep-shadows/tree/dev')

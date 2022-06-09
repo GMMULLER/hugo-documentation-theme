@@ -17,6 +17,10 @@ feature:
     name: Scale
     description: Quantification of sunlight access and shadows at a global scale
 
-advanced:
-  css_style: 'padding-left: 40px; padding-right: 40px'
+design: 
+  spacing:
+    padding: ["50px","40px","80px","40px"]
+
+# advanced:
+#   css_style: 'padding-left: 40px; padding-right: 40px; '
 ---
