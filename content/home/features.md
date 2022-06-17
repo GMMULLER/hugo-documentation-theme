@@ -4,18 +4,18 @@ headless: true
 weight: 20
 title: Features
 feature:
-  - icon: clock
-    icon_pack: fas
-    name: Speed
-    description: Rendering time
   - icon: bullseye
     icon_pack: fas
     name: Accuracy
-    description: RMSE, MAE, MSE
+    description: Low RMSE for cities outside the training domain.
+  - icon: osi
+    icon_pack: fas
+    name: Open-source
+    description: Open-source model.
   - icon: globe
     icon_pack: fas
     name: Scale
-    description: Quantification of sunlight access and shadows at a global scale
+    description: Quantification of sunlight access and shadows for over 100 cities.
 
 design: 
   spacing:
