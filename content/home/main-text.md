@@ -23,6 +23,8 @@ Deep Umbra is a a novel computational framework that enables the quantification 
 
 We also present the Global Shadow Dataset, a comprehensive dataset with the accumulated shadow information for over 100 cities in 6 continents.
 
+![Overview of Deep Umbra](overview.png)
+
 Authors:
 Kazi Shahrukh Omar (UIC)
 
